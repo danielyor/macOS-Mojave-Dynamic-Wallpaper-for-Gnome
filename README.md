@@ -1,5 +1,5 @@
 # macOS Mojave Wallpaper for Gnome
-A live wallpaper for Gnome Shell, dynamically changing throughout the whole day.
+A live wallpaper for Gnome Shell, dynamically changing throughout the day.
 
 Installation:
 1) Unzip the "Gnojave" folder in /usr/share/backgrounds/gnome.
