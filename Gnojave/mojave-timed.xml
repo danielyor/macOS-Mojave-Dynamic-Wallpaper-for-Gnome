@@ -1,0 +1,128 @@
+<background>
+  <starttime>
+    <year>2011</year>
+    <month>11</month>
+    <day>24</day>
+    <hour>5</hour>
+    <minute>00</minute>
+    <second>00</second>
+  </starttime>
+
+  <!-- 16 Mojave Wallpapers for Gnome, shifting throughout the whole day! -->
+  <!-- This animation will start at 5:00 -->
+
+  <!-- From 05:00 to 06:00 -->
+  <transition type="overlay">
+  <duration>3600.0</duration>
+  <from>/usr/share/backgrounds/gnome/Gnojave/mojave-01.jpeg</from>
+  <to>/usr/share/backgrounds/gnome/Gnojave/mojave-02.jpeg</to>
+  </transition>
+
+  <!-- From 06:00 to 7:00 -->
+  <transition type="overlay">
+  <duration>3600.0</duration>
+  <from>/usr/share/backgrounds/gnome/Gnojave/mojave-02.jpeg</from>
+  <to>/usr/share/backgrounds/gnome/Gnojave/mojave-03.jpeg</to>
+  </transition>
+
+  <!-- From 07:00 to 8:00 -->
+  <transition type="overlay">
+  <duration>3600.0</duration>
+  <from>/usr/share/backgrounds/gnome/Gnojave/mojave-03.jpeg</from>
+  <to>/usr/share/backgrounds/gnome/Gnojave/mojave-04.jpeg</to>
+  </transition>
+
+  <!-- From 8:00 to 9:00 -->
+  <transition type="overlay">
+  <duration>3600.0</duration>
+  <from>/usr/share/backgrounds/gnome/Gnojave/mojave-04.jpeg</from>
+  <to>/usr/share/backgrounds/gnome/Gnojave/mojave-05.jpeg</to>
+  </transition>
+
+  <!-- From 9:00 to 10:30 -->
+  <transition type="overlay">
+  <duration>5400.0</duration>
+  <from>/usr/share/backgrounds/gnome/Gnojave/mojave-05.jpeg</from>
+  <to>/usr/share/backgrounds/gnome/Gnojave/mojave-06.jpeg</to>
+  </transition>
+
+  <!-- From 10:30 to 12:00 -->
+  <transition type="overlay">
+  <duration>5400.0</duration>
+  <from>/usr/share/backgrounds/gnome/Gnojave/mojave-06.jpeg</from>
+  <to>/usr/share/backgrounds/gnome/Gnojave/mojave-07.jpeg</to>
+  </transition>
+
+  <!-- Midday -->
+  <!-- From 12:00 to 14:00 -->
+  <transition type="overlay">
+  <duration>7200.0</duration>
+  <from>/usr/share/backgrounds/gnome/Gnojave/mojave-07.jpeg</from>
+  <to>/usr/share/backgrounds/gnome/Gnojave/mojave-08.jpeg</to>
+  </transition>
+
+  <!-- From 14:00 to 15:30 -->
+  <transition type="overlay">
+  <duration>5400.0</duration>
+  <from>/usr/share/backgrounds/gnome/Gnojave/mojave-08.jpeg</from>
+  <to>/usr/share/backgrounds/gnome/Gnojave/mojave-09.jpeg</to>
+  </transition>
+
+  <!-- From 15:30 to 17:00 -->
+  <transition type="overlay">
+  <duration>5400.0</duration>
+  <from>/usr/share/backgrounds/gnome/Gnojave/mojave-09.jpeg</from>
+  <to>/usr/share/backgrounds/gnome/Gnojave/mojave-10.jpeg</to>
+  </transition>
+
+  <!-- From 17:00 to 18:00 -->
+  <transition type="overlay">
+  <duration>3600.0</duration>
+  <from>/usr/share/backgrounds/gnome/Gnojave/mojave-10.jpeg</from>
+  <to>/usr/share/backgrounds/gnome/Gnojave/mojave-11.jpeg</to>
+  </transition>
+
+  <!-- From 18:00 to 19:00 -->
+  <transition type="overlay">
+  <duration>3600.0</duration>
+  <from>/usr/share/backgrounds/gnome/mojave-11.jpeg</from>
+  <to>/usr/share/backgrounds/gnome/mojave-12.jpeg</to>
+  </transition>
+
+  <!-- From 19:00 to 20:00 -->
+  <transition type="overlay">
+  <duration>3600.0</duration>
+  <from>/usr/share/backgrounds/gnome/Gnojave/mojave-12.jpeg</from>
+  <to>/usr/share/backgrounds/gnome/Gnojave/mojave-13.jpeg</to>
+  </transition>
+
+  <!-- Sundown -->
+  <!-- From 20:00 to 22:00 -->
+  <transition type="overlay">
+  <duration>7200.0</duration>
+  <from>/usr/share/backgrounds/gnome/Gnojave/mojave-13.jpeg</from>
+  <to>/usr/share/backgrounds/gnome/Gnojave/mojave-14.jpeg</to>
+  </transition>
+
+  <!-- From 22:00 to 01:00 -->
+  <transition type="overlay">
+  <duration>10800.0</duration>
+  <from>/usr/share/backgrounds/gnome/Gnojave/mojave-14.jpeg</from>
+  <to>/usr/share/backgrounds/gnome/Gnojave/mojave-15.jpeg</to>
+  </transition>
+
+  <!-- From 01:00 to 04:00 -->
+  <transition type="overlay">
+  <duration>10800.0</duration>
+  <from>/usr/share/backgrounds/gnome/Gnojave/mojave-15.jpeg</from>
+  <to>/usr/share/backgrounds/gnome/Gnojave/mojave-16.jpeg</to>
+  </transition>
+
+  <!-- From 04:00 to 05:00 -->
+  <transition type="overlay">
+  <duration>3600.0</duration>
+  <from>/usr/share/backgrounds/gnome/Gnojave/mojave-16.jpeg</from>
+  <to>/usr/share/backgrounds/gnome/Gnojave/mojave-01.jpeg</to>
+  </transition>
+
+</background>
