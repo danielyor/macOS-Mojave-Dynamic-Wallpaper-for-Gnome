@@ -1,4 +1,4 @@
-# macOS Mojave Wallpaper for Gnome
+# macOS Mojave Dynamic Wallpaper for Gnome
 A live wallpaper for Gnome Shell, dynamically changing throughout the day.
 
 Installation:
