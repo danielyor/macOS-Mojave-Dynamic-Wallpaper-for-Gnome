@@ -85,8 +85,8 @@
   <!-- From 18:00 to 19:00 -->
   <transition type="overlay">
   <duration>3600.0</duration>
-  <from>/usr/share/backgrounds/gnome/mojave-11.jpeg</from>
-  <to>/usr/share/backgrounds/gnome/mojave-12.jpeg</to>
+  <from>/usr/share/backgrounds/gnome/Gnojave/mojave-11.jpeg</from>
+  <to>/usr/share/backgrounds/gnome/Gnojave/mojave-12.jpeg</to>
   </transition>
 
   <!-- From 19:00 to 20:00 -->
